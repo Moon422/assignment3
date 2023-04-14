@@ -73,7 +73,7 @@
 ?>
     <div class="container py-2 px-5">
         <div class="row">
-            <div class="col-11">
+            <div class="col-12 col-md-10 col-xxl-11">
                 <h5>
                     Weather Records of <span class="weather-record-date"><em><?php
                         // echo $key;
