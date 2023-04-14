@@ -1,0 +1,24 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+    background: url("/img/mountain.jpg");
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-attachment: fixed;
+}
+
+.header-text {
+    border: 2px solid white;
+    background: rgba(0, 0, 0, 0.4);
+    font-weight: bold;
+}
+
+h3 .location {
+    font-weight: bold;
+}
+
+h5 .weather-record-date {
+    font-weight: bold;
+}
